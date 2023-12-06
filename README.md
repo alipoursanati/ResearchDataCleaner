@@ -10,8 +10,7 @@ Clone the repository or download the script files.
 
 Install the required libraries by running the following command:
 
-basic
-Copy
+```
 pip install -r requirements.txt
 ```
 Usage
