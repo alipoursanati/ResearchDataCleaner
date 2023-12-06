@@ -18,7 +18,7 @@ Place the raw patient data in a CSV file named patient_data.csv in the same dire
 
 Run the script using the following command:
 
-Copy
+```
 python preprocess_data.py
 ```
 
